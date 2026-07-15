@@ -1,4 +1,7 @@
-Use the following in .env
+### Use the following in .env
+
 JIRA_BASE_URL =
+
 JIRA_EMAIL =
+
 JIRA_API_TOKEN =
