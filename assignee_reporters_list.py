@@ -17,9 +17,9 @@ Setup:
        variables (e.g. in a .env file), or fill them in below.
 
 Usage:
-    python get_jira_people.py
-    python get_jira_people.py --project MYPROJ
-    python get_jira_people.py --jql "project = MYPROJ AND created >= -90d"
+    python assignee_reporters_list.py
+    python assignee_reporters_list.py --project MYPROJ
+    python assignee_reporters_list.py --jql "project = MYPROJ AND created >= -90d"
 """
 
 import os

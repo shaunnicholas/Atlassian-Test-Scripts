@@ -11,7 +11,7 @@ Setup:
        or set them as environment variables (recommended).
 
 Usage:
-    python get_jira_projects.py
+    python projectslist.py
 """
 
 import os
